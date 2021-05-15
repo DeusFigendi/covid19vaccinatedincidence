@@ -7,143 +7,159 @@ Genauer gesagt, zur Nicht-Geimpft-Rate.
 ### Baden-Württemberg
 
 | Baden-Württemberg | DE-BW |
-| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 107.0 |
+| --- | --- |
+| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 107.1 |
 | Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 119.9 |
-| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 200.10000000000002 |
+| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 200.2 |
 
 
 
 ### Bayern
 
 | Bayern | DE-BY |
-| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 85.7 |
+| --- | --- |
+| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 85.8 |
 | Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 95.5 |
-| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 163.60000000000002 |
+| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 163.7 |
 
 
 
 ### Berlin
 
 | Berlin | DE-BE |
+| --- | --- |
 | Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 67.3 |
 | Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 76.7 |
-| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 123.60000000000001 |
+| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 123.7 |
 
 
 
 ### Brandenburg
 
 | Brandenburg | DE-BB |
-| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 64.3 |
+| --- | --- |
+| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 64.4 |
 | Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 72.9 |
-| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 114.30000000000001 |
+| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 114.3 |
 
 
 
 ### Bremen
 
 | Bremen | DE-HB |
-| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 67.0 |
-| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 78.10000000000001 |
-| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 138.8 |
+| --- | --- |
+| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 67.1 |
+| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 78.1 |
+| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 138.9 |
 
 
 
 ### Hamburg
 
 | Hamburg | DE-HH |
-| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 53.800000000000004 |
+| --- | --- |
+| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 53.8 |
 | Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 59.7 |
-| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 98.80000000000001 |
+| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 98.8 |
 
 
 
 ### Hessen
 
 | Hessen | DE-HE |
+| --- | --- |
 | Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 99.7 |
-| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 110.5 |
-| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 185.60000000000002 |
+| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 110.6 |
+| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 185.6 |
 
 
 
 ### Mecklenburg-Vorpommern
 
 | Mecklenburg-Vorpommern | DE-MV |
-| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 59.7 |
-| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 66.60000000000001 |
-| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 117.60000000000001 |
+| --- | --- |
+| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 59.8 |
+| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 66.7 |
+| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 117.6 |
 
 
 
 ### Niedersachsen
 
 | Niedersachsen | DE-NI |
-| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 61.7 |
+| --- | --- |
+| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 61.8 |
 | Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 68.2 |
-| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 116.9 |
+| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 117.0 |
 
 
 
 ### Nordrhein-Westfalen
 
 | Nordrhein-Westfalen | DE-NW |
+| --- | --- |
 | Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 92.4 |
-| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 102.60000000000001 |
-| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 179.70000000000002 |
+| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 102.7 |
+| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 179.7 |
 
 
 
 ### Rheinland-Pfalz
 
 | Rheinland-Pfalz | DE-RP |
-| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 80.60000000000001 |
+| --- | --- |
+| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 80.6 |
 | Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 92.4 |
-| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 154.10000000000002 |
+| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 154.1 |
 
 
 
 ### Saarland
 
 | Saarland | DE-SL |
-| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 90.4 |
-| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 101.9 |
-| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 189.70000000000002 |
+| --- | --- |
+| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 90.5 |
+| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 102.0 |
+| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 189.8 |
 
 
 
 ### Sachsen
 
 | Sachsen | DE-SN |
-| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 122.60000000000001 |
+| --- | --- |
+| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 122.6 |
 | Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 143.6 |
-| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 227.3 |
+| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 227.4 |
 
 
 
 ### Sachsen-Anhalt
 
 | Sachsen-Anhalt | DE-ST |
-| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 92.0 |
-| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 103.5 |
-| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 171.60000000000002 |
+| --- | --- |
+| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 92.1 |
+| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 103.6 |
+| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 171.6 |
 
 
 
 ### Schleswig-Holstein
 
 | Schleswig-Holstein | DE-SH |
-| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 39.0 |
-| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 44.900000000000006 |
-| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 73.9 |
+| --- | --- |
+| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 39.1 |
+| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 44.9 |
+| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 74.0 |
 
 
 
 ### Thüringen
 
 | Thüringen | DE-TH |
-| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 132.0 |
-| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 155.4 |
+| --- | --- |
+| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 132.1 |
+| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 155.5 |
 | Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 255.5 |
 
 

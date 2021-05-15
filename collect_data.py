@@ -2,8 +2,7 @@ import requests
 import time
 import json
 import datetime
-
-#import subprocess
+import subprocess
 
 
 def merge_datasource(vacdata,disdata):
@@ -103,11 +102,13 @@ for this_bundesland in mergeddata:
 	novac = this_bundesland['population'] - this_bundesland['vacchalf'] - this_bundesland['vaccfull']
 	nofullvac = this_bundesland['population'] - this_bundesland['vaccfull']
 	cases7_100k = 100000 * this_bundesland['cases7'] / this_bundesland['population']
-	cases7_100k_novac = 100000 * this_bundesland['cases7'] / novac
 	cases7_100k_nofullvac = 100000 * this_bundesland['cases7'] / nofullvac
-	markdown_output += '| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | '+get_rounded(cases7_100k)+' |\n'
-	markdown_output += '| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | '+get_rounded(cases7_100k_novac)+' |\n'
-	markdown_output += '| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | '+get_rounded(cases7_100k_nofullvac)+' |\n'
+	cases7_100k_novac = 100000 * this_bundesland['cases7'] / novac
+	markdown_output += '| '+this_bundesland['name']+' | '+this_bundesland['shortname']+' |\n'
+	markdown_output += '| --- | --- |\n'
+	markdown_output += '| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | '+str(round(cases7_100k,1))+' |\n'
+	markdown_output += '| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | '+str(round(cases7_100k_nofullvac,1))+' |\n'
+	markdown_output += '| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | '+str(round(cases7_100k_novac,1))+' |\n'
 	markdown_output += '\n'
 	markdown_output += '\n'
 	markdown_output += '\n'
@@ -126,6 +127,8 @@ markdown_output += '\n'
 markdown_output += 'Die Datei collect_data.py läd die aktuellen Daten zur Inzidenz und zur Impfung von impfdashboard.de und vom COVID-19 Datenhub herunter und verbindet sie.\n'
 markdown_output += 'Anschließend wird **diese Readme** hier erzeugt und die ermittelten Daten in einer Datei (nach Datum benannt) weggespeichert. Damit könnte man später Verlaufsgraphen generieren.\n'
 markdown_output += 'Abschließend wird automatisch `git push` durchgeführt, damit die Daten aktualisiert werden.\n'
+markdown_output += '\n'
+markdown_output += 'Es werden ein paar Daten mehr erhoben als hier dargestellt werden, mit der Absicht später "Genesene" zu den Teilgeimpften zu zählen und ggf. die "Verstorbenen" von der Gesamtbevölkerung abzuziehen (falls die Bevölkerungszahl nicht ohnehin in den Daten aktualisiert wird, was ich noch beobachten muss)\n'
 
 readmefilehandler = open("README.md", "w")
 readmefilehandler.write(markdown_output)
@@ -134,3 +137,8 @@ readmefilehandler.close()
 jsonfilehandler = open('collected_data/'+datetime.date.today().isoformat()+'.json', 'w')
 json.dump(mergeddata, jsonfilehandler)
 jsonfilehandler.close()
+
+subprocess.call(["git", "add", "README.md", './collected_data/'+datetime.date.today().isoformat()+'.json'])
+subprocess.call(["git", "commit", "-m", 'automated commit, data update'])
+subprocess.call(["git", "push"])
+
