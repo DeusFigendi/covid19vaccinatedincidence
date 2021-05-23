@@ -8,9 +8,9 @@ Genauer gesagt, zur Nicht-Geimpft-Rate.
 
 | Baden-Württemberg | DE-BW |
 | --- | --- |
-| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 80.5 |
-| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 93.3 |
-| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 171.0 |
+| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 80.4 |
+| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 93.1 |
+| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 170.7 |
 
 
 
@@ -18,9 +18,9 @@ Genauer gesagt, zur Nicht-Geimpft-Rate.
 
 | Bayern | DE-BY |
 | --- | --- |
-| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 65.3 |
-| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 75.1 |
-| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 141.2 |
+| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 62.6 |
+| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 72.0 |
+| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 135.3 |
 
 
 
@@ -28,9 +28,9 @@ Genauer gesagt, zur Nicht-Geimpft-Rate.
 
 | Berlin | DE-BE |
 | --- | --- |
-| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 56.1 |
-| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 65.9 |
-| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 116.9 |
+| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 55.5 |
+| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 65.2 |
+| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 115.7 |
 
 
 
@@ -38,9 +38,9 @@ Genauer gesagt, zur Nicht-Geimpft-Rate.
 
 | Brandenburg | DE-BB |
 | --- | --- |
-| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 49.4 |
-| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 57.8 |
-| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 97.8 |
+| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 47.9 |
+| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 56.0 |
+| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 94.7 |
 
 
 
@@ -48,9 +48,9 @@ Genauer gesagt, zur Nicht-Geimpft-Rate.
 
 | Bremen | DE-HB |
 | --- | --- |
-| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 58.9 |
-| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 71.4 |
-| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 142.4 |
+| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 55.8 |
+| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 67.7 |
+| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 134.9 |
 
 
 
@@ -58,9 +58,9 @@ Genauer gesagt, zur Nicht-Geimpft-Rate.
 
 | Hamburg | DE-HH |
 | --- | --- |
-| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 35.0 |
-| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 40.3 |
-| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 71.7 |
+| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 34.8 |
+| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 40.1 |
+| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 71.4 |
 
 
 
@@ -68,9 +68,9 @@ Genauer gesagt, zur Nicht-Geimpft-Rate.
 
 | Hessen | DE-HE |
 | --- | --- |
-| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 76.4 |
-| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 86.9 |
-| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 159.3 |
+| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 75.4 |
+| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 85.8 |
+| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 157.2 |
 
 
 
@@ -78,9 +78,9 @@ Genauer gesagt, zur Nicht-Geimpft-Rate.
 
 | Mecklenburg-Vorpommern | DE-MV |
 | --- | --- |
-| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 44.8 |
-| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 51.6 |
-| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 99.2 |
+| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 40.9 |
+| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 47.1 |
+| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 90.7 |
 
 
 
@@ -88,9 +88,9 @@ Genauer gesagt, zur Nicht-Geimpft-Rate.
 
 | Niedersachsen | DE-NI |
 | --- | --- |
-| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 46.8 |
-| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 53.3 |
-| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 100.1 |
+| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 46.3 |
+| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 52.7 |
+| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 99.0 |
 
 
 
@@ -98,9 +98,9 @@ Genauer gesagt, zur Nicht-Geimpft-Rate.
 
 | Nordrhein-Westfalen | DE-NW |
 | --- | --- |
-| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 73.4 |
-| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 84.0 |
-| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 162.6 |
+| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 69.4 |
+| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 79.5 |
+| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 153.9 |
 
 
 
@@ -108,9 +108,9 @@ Genauer gesagt, zur Nicht-Geimpft-Rate.
 
 | Rheinland-Pfalz | DE-RP |
 | --- | --- |
-| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 61.2 |
-| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 72.2 |
-| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 131.6 |
+| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 56.0 |
+| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 66.1 |
+| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 120.5 |
 
 
 
@@ -118,9 +118,9 @@ Genauer gesagt, zur Nicht-Geimpft-Rate.
 
 | Saarland | DE-SL |
 | --- | --- |
-| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 83.2 |
-| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 98.3 |
-| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 204.3 |
+| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 81.1 |
+| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 95.8 |
+| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 199.1 |
 
 
 
@@ -128,9 +128,9 @@ Genauer gesagt, zur Nicht-Geimpft-Rate.
 
 | Sachsen | DE-SN |
 | --- | --- |
-| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 85.6 |
-| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 103.6 |
-| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 178.3 |
+| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 81.7 |
+| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 98.8 |
+| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 170.1 |
 
 
 
@@ -138,9 +138,9 @@ Genauer gesagt, zur Nicht-Geimpft-Rate.
 
 | Sachsen-Anhalt | DE-ST |
 | --- | --- |
-| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 57.7 |
-| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 66.6 |
-| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 119.2 |
+| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 53.8 |
+| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 62.1 |
+| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 111.1 |
 
 
 
@@ -148,9 +148,9 @@ Genauer gesagt, zur Nicht-Geimpft-Rate.
 
 | Schleswig-Holstein | DE-SH |
 | --- | --- |
-| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 32.9 |
-| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 38.9 |
-| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 68.5 |
+| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 31.5 |
+| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 37.3 |
+| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 65.7 |
 
 
 
@@ -158,9 +158,9 @@ Genauer gesagt, zur Nicht-Geimpft-Rate.
 
 | Thüringen | DE-TH |
 | --- | --- |
-| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 105.0 |
-| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 126.1 |
-| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 226.0 |
+| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | 101.2 |
+| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | 121.7 |
+| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | 218.1 |
 
 
 
