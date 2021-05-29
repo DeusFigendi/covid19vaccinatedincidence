@@ -57,10 +57,19 @@ def csv_parse(data,seperator):
 	return(return_list)
 
 
+def get_data_from_url(dlurl):
+	#running different ways to get data from an url…
+	try:
+		r = requests.get(dlurl)
+		result_data = r.text
+	except:
+		curl_result = subprocess.run(["curl", '-s', dlurl], stdout=subprocess.PIPE)
+		result_data = curl_result.stdout.decode('UTF-8')
+	return(result_data)
+
 def get_vac_data():
 	#downloads current data about vaccination
-	r = requests.get('https://impfdashboard.de/static/data/germany_vaccinations_by_state.tsv')
-	vac_data = r.text
+	vac_data = get_data_from_url('https://impfdashboard.de/static/data/germany_vaccinations_by_state.tsv')
 	# parsing
 	vac_data3 = csv_parse(vac_data,'\t')
 	return(vac_data3)
@@ -89,7 +98,7 @@ print(incidencedata)
 mergeddata = merge_datasource(vaccinedata,incidencedata)
 
 
-markdown_output = '# Covid19 Impung und Inzidenz\n'
+markdown_output = '# Covid19: Impung und Inzidenz\n'
 markdown_output += '\n'
 markdown_output += 'In diesem Dokument soll die Inzidenz der Bundesländer in Relation zu ihrer Impfrate dargestellt werden.\n'
 markdown_output += 'Genauer gesagt, zur Nicht-Geimpft-Rate.\n'
@@ -139,6 +148,6 @@ json.dump(mergeddata, jsonfilehandler)
 jsonfilehandler.close()
 
 subprocess.call(["git", "add", "README.md", './collected_data/'+datetime.date.today().isoformat()+'.json'])
-subprocess.call(["git", "commit", "-m", 'automated commit, data update'])
+subprocess.call(["git", "commit", "-m", 'automated commit: data update '+datetime.date.today().isoformat()])
 subprocess.call(["git", "push"])
 
