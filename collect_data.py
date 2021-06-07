@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import requests
 import time
 import json
@@ -67,6 +69,15 @@ def get_data_from_url(dlurl):
 		result_data = curl_result.stdout.decode('UTF-8')
 	return(result_data)
 
+def get_json_from_url(dlurl):
+	try:
+		r = requests.get(dlurl)
+		return_object = r.json()
+	except:
+		return_text = get_data_from_url(dlurl)
+		return_object = json.parse(return_text)
+	return(return_object)
+
 def get_vac_data():
 	#downloads current data about vaccination
 	vac_data = get_data_from_url('https://impfdashboard.de/static/data/germany_vaccinations_by_state.tsv')
@@ -77,8 +88,9 @@ def get_vac_data():
 
 def get_dis_data():
 	#downloads current data about diseese
-	r = requests.get('https://services7.arcgis.com/mOBPykOjAyBO2ZKk/arcgis/rest/services/Coronaf%C3%A4lle_in_den_Bundesl%C3%A4ndern/FeatureServer/0/query?where=1%3D1&outFields=LAN_ew_GEN,OBJECTID,GlobalID,cases7_bl_per_100k,cases7_bl,LAN_ew_EWZ,Fallzahl,Death&outSR=4326&f=json')
-	dis_data = r.json()
+	#r = requests.get('https://services7.arcgis.com/mOBPykOjAyBO2ZKk/arcgis/rest/services/Coronaf%C3%A4lle_in_den_Bundesl%C3%A4ndern/FeatureServer/0/query?where=1%3D1&outFields=LAN_ew_GEN,OBJECTID,GlobalID,cases7_bl_per_100k,cases7_bl,LAN_ew_EWZ,Fallzahl,Death&outSR=4326&f=json')
+	#dis_data = r.json()
+	dis_data = get_json_from_url('https://services7.arcgis.com/mOBPykOjAyBO2ZKk/arcgis/rest/services/Coronaf%C3%A4lle_in_den_Bundesl%C3%A4ndern/FeatureServer/0/query?where=1%3D1&outFields=LAN_ew_GEN,OBJECTID,GlobalID,cases7_bl_per_100k,cases7_bl,LAN_ew_EWZ,Fallzahl,Death&outSR=4326&f=json')
 	return_list = []
 	for this_featureset in dis_data['features']:
 		return_list.append(this_featureset['attributes'])
@@ -142,9 +154,13 @@ markdown_output += 'Es werden ein paar Daten mehr erhoben als hier dargestellt w
 readmefilehandler = open("README.md", "w")
 readmefilehandler.write(markdown_output)
 readmefilehandler.close()
+
+readmefilehandler = open("debuginfos.txt", "w")
+readmefilehandler.write('last run: '+datetime.datetime.now().isoformat())
+readmefilehandler.close()
 	
 jsonfilehandler = open('collected_data/'+datetime.date.today().isoformat()+'.json', 'w')
-json.dump(mergeddata, jsonfilehandler)
+json.dump(mergeddata, jsonfilehandler,indent=1)
 jsonfilehandler.close()
 
 subprocess.call(["git", "add", "README.md", './collected_data/'+datetime.date.today().isoformat()+'.json'])
