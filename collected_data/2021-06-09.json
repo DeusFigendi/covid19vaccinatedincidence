@@ -1,0 +1,178 @@
+[
+ {
+  "name": "Baden-W\u00fcrttemberg",
+  "shortname": "DE-BW",
+  "vacchalf": 4997213,
+  "vaccfull": 2355467,
+  "guid": "80394ddf-c6a4-4a6e-be8e-0259a81b22a9",
+  "cases7": 3113,
+  "cases": 495712,
+  "died": 10030,
+  "population": 11100394
+ },
+ {
+  "name": "Bayern",
+  "shortname": "DE-BY",
+  "vacchalf": 5847401,
+  "vaccfull": 2875317,
+  "guid": "1ff920f4-62cd-4a4f-b8c9-f042f2a3e00a",
+  "cases7": 3095,
+  "cases": 642668,
+  "died": 15036,
+  "population": 13124737
+ },
+ {
+  "name": "Berlin",
+  "shortname": "DE-BE",
+  "vacchalf": 1683539,
+  "vaccfull": 775476,
+  "guid": "c7033073-2bb0-486b-97af-5b3c639e7219",
+  "cases7": 887,
+  "cases": 179225,
+  "died": 3510,
+  "population": 3669491
+ },
+ {
+  "name": "Brandenburg",
+  "shortname": "DE-BB",
+  "vacchalf": 1079407,
+  "vaccfull": 544939,
+  "guid": "b560af89-5895-4be4-96f8-0f581cd8a858",
+  "cases7": 326,
+  "cases": 108575,
+  "died": 3746,
+  "population": 2521893
+ },
+ {
+  "name": "Bremen",
+  "shortname": "DE-HB",
+  "vacchalf": 340019,
+  "vaccfull": 170072,
+  "guid": "4132268b-54de-4327-ac1e-760e915112f1",
+  "cases7": 159,
+  "cases": 27247,
+  "died": 475,
+  "population": 681202
+ },
+ {
+  "name": "Hamburg",
+  "shortname": "DE-HH",
+  "vacchalf": 802087,
+  "vaccfull": 394474,
+  "guid": "0f3e860c-5181-4d3f-a421-1d51f50315ea",
+  "cases7": 309,
+  "cases": 76624,
+  "died": 1573,
+  "population": 1847253
+ },
+ {
+  "name": "Hessen",
+  "shortname": "DE-HE",
+  "vacchalf": 2874955,
+  "vaccfull": 1211926,
+  "guid": "93277ac4-e8fc-48c7-8940-028dc2ed66af",
+  "cases7": 1654,
+  "cases": 288337,
+  "died": 7402,
+  "population": 6288080
+ },
+ {
+  "name": "Mecklenburg-Vorpommern",
+  "shortname": "DE-MV",
+  "vacchalf": 761021,
+  "vaccfull": 371095,
+  "guid": "a27f5628-e790-45be-898d-f0a6841c0f7e",
+  "cases7": 140,
+  "cases": 43997,
+  "died": 1129,
+  "population": 1608138
+ },
+ {
+  "name": "Niedersachsen",
+  "shortname": "DE-NI",
+  "vacchalf": 3734362,
+  "vaccfull": 1640935,
+  "guid": "3fd77024-c29b-4843-9be8-682ad48e60c9",
+  "cases7": 1258,
+  "cases": 259530,
+  "died": 5676,
+  "population": 7993608
+ },
+ {
+  "name": "Nordrhein-Westfalen",
+  "shortname": "DE-NW",
+  "vacchalf": 8722892,
+  "vaccfull": 3999109,
+  "guid": "561d658f-3ee5-46e3-bc95-3528c6558ab9",
+  "cases7": 4674,
+  "cases": 810456,
+  "died": 16894,
+  "population": 17947221
+ },
+ {
+  "name": "Rheinland-Pfalz",
+  "shortname": "DE-RP",
+  "vacchalf": 1823409,
+  "vaccfull": 907257,
+  "guid": "e9b4296f-9be2-4e53-9a58-ccf1396cb03d",
+  "cases7": 991,
+  "cases": 153880,
+  "died": 3759,
+  "population": 4093903
+ },
+ {
+  "name": "Saarland",
+  "shortname": "DE-SL",
+  "vacchalf": 484355,
+  "vaccfull": 255017,
+  "guid": "e3396a6f-8a30-4fdf-8df7-def77dd38bea",
+  "cases7": 281,
+  "cases": 41057,
+  "died": 1014,
+  "population": 986887
+ },
+ {
+  "name": "Sachsen",
+  "shortname": "DE-SN",
+  "vacchalf": 1669185,
+  "vaccfull": 991112,
+  "guid": "256d2405-a7c8-4fec-93df-29f3c808cd25",
+  "cases7": 893,
+  "cases": 284910,
+  "died": 9901,
+  "population": 4071971
+ },
+ {
+  "name": "Sachsen-Anhalt",
+  "shortname": "DE-ST",
+  "vacchalf": 977023,
+  "vaccfull": 474021,
+  "guid": "66106bbe-f04b-4f92-80e1-5b5b30da25b5",
+  "cases7": 380,
+  "cases": 98877,
+  "died": 3373,
+  "population": 2194782
+ },
+ {
+  "name": "Schleswig-Holstein",
+  "shortname": "DE-SH",
+  "vacchalf": 1382212,
+  "vaccfull": 678438,
+  "guid": "fc5ba936-c95c-432c-8a33-9eb2f30b660f",
+  "cases7": 319,
+  "cases": 63407,
+  "died": 1606,
+  "population": 2903773
+ },
+ {
+  "name": "Th\u00fcringen",
+  "shortname": "DE-TH",
+  "vacchalf": 945003,
+  "vaccfull": 487835,
+  "guid": "3a3e2817-bb19-4f8c-8bca-d8ff591140d4",
+  "cases7": 583,
+  "cases": 128186,
+  "died": 4260,
+  "population": 2133378
+ }
+]
