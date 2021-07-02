@@ -5,9 +5,9 @@
   "vacchalf": 6058632,
   "vaccfull": 4038941,
   "guid": "80394ddf-c6a4-4a6e-be8e-0259a81b22a9",
-  "cases7": 693,
-  "cases": 500702,
-  "died": 10261,
+  "cases7": 642,
+  "cases": 500787,
+  "died": 10272,
   "population": 11100394
  },
  {
@@ -16,9 +16,9 @@
   "vacchalf": 6904342,
   "vaccfull": 4856059,
   "guid": "1ff920f4-62cd-4a4f-b8c9-f042f2a3e00a",
-  "cases7": 788,
-  "cases": 647616,
-  "died": 15262,
+  "cases7": 773,
+  "cases": 647744,
+  "died": 15267,
   "population": 13124737
  },
  {
@@ -27,8 +27,8 @@
   "vacchalf": 2010252,
   "vaccfull": 1304685,
   "guid": "c7033073-2bb0-486b-97af-5b3c639e7219",
-  "cases7": 203,
-  "cases": 180209,
+  "cases7": 186,
+  "cases": 180225,
   "died": 3560,
   "population": 3669491
  },
@@ -38,9 +38,9 @@
   "vacchalf": 1320038,
   "vaccfull": 851317,
   "guid": "b560af89-5895-4be4-96f8-0f581cd8a858",
-  "cases7": 70,
-  "cases": 108702,
-  "died": 3806,
+  "cases7": 66,
+  "cases": 108706,
+  "died": 3807,
   "population": 2521893
  },
  {
@@ -50,8 +50,8 @@
   "vaccfull": 252802,
   "guid": "4132268b-54de-4327-ac1e-760e915112f1",
   "cases7": 41,
-  "cases": 27449,
-  "died": 486,
+  "cases": 27458,
+  "died": 487,
   "population": 681202
  },
  {
@@ -60,9 +60,9 @@
   "vacchalf": 984009,
   "vaccfull": 663389,
   "guid": "0f3e860c-5181-4d3f-a421-1d51f50315ea",
-  "cases7": 143,
-  "cases": 77369,
-  "died": 1596,
+  "cases7": 148,
+  "cases": 77396,
+  "died": 1597,
   "population": 1847253
  },
  {
@@ -71,9 +71,9 @@
   "vacchalf": 3406136,
   "vaccfull": 2233615,
   "guid": "93277ac4-e8fc-48c7-8940-028dc2ed66af",
-  "cases7": 463,
-  "cases": 290935,
-  "died": 7521,
+  "cases7": 443,
+  "cases": 290994,
+  "died": 7538,
   "population": 6288080
  },
  {
@@ -83,7 +83,7 @@
   "vaccfull": 625636,
   "guid": "a27f5628-e790-45be-898d-f0a6841c0f7e",
   "cases7": 27,
-  "cases": 44154,
+  "cases": 44156,
   "died": 1156,
   "population": 1608138
  },
@@ -93,9 +93,9 @@
   "vacchalf": 4520049,
   "vaccfull": 2868149,
   "guid": "3fd77024-c29b-4843-9be8-682ad48e60c9",
-  "cases7": 235,
-  "cases": 261055,
-  "died": 5764,
+  "cases7": 260,
+  "cases": 261107,
+  "died": 5769,
   "population": 7993608
  },
  {
@@ -104,9 +104,9 @@
   "vacchalf": 10330438,
   "vaccfull": 7207619,
   "guid": "561d658f-3ee5-46e3-bc95-3528c6558ab9",
-  "cases7": 1015,
-  "cases": 816330,
-  "died": 17151,
+  "cases7": 1002,
+  "cases": 816500,
+  "died": 17165,
   "population": 17947221
  },
  {
@@ -115,9 +115,9 @@
   "vacchalf": 2293143,
   "vaccfull": 1465583,
   "guid": "e9b4296f-9be2-4e53-9a58-ccf1396cb03d",
-  "cases7": 204,
-  "cases": 155220,
-  "died": 3890,
+  "cases7": 206,
+  "cases": 155262,
+  "died": 3892,
   "population": 4093903
  },
  {
@@ -126,9 +126,9 @@
   "vacchalf": 577965,
   "vaccfull": 426111,
   "guid": "e3396a6f-8a30-4fdf-8df7-def77dd38bea",
-  "cases7": 68,
-  "cases": 41486,
-  "died": 1020,
+  "cases7": 58,
+  "cases": 41497,
+  "died": 1024,
   "population": 986887
  },
  {
@@ -137,9 +137,9 @@
   "vacchalf": 1972029,
   "vaccfull": 1471855,
   "guid": "256d2405-a7c8-4fec-93df-29f3c808cd25",
-  "cases7": 115,
-  "cases": 285886,
-  "died": 10081,
+  "cases7": 108,
+  "cases": 285904,
+  "died": 10084,
   "population": 4071971
  },
  {
@@ -148,8 +148,8 @@
   "vacchalf": 1145660,
   "vaccfull": 783633,
   "guid": "66106bbe-f04b-4f92-80e1-5b5b30da25b5",
-  "cases7": 22,
-  "cases": 99238,
+  "cases7": 21,
+  "cases": 99243,
   "died": 3428,
   "population": 2194782
  },
@@ -159,9 +159,9 @@
   "vacchalf": 1706006,
   "vaccfull": 1097346,
   "guid": "fc5ba936-c95c-432c-8a33-9eb2f30b660f",
-  "cases7": 97,
-  "cases": 63906,
-  "died": 1621,
+  "cases7": 100,
+  "cases": 63921,
+  "died": 1623,
   "population": 2903773
  },
  {
@@ -170,9 +170,9 @@
   "vacchalf": 1106805,
   "vaccfull": 742940,
   "guid": "3a3e2817-bb19-4f8c-8bca-d8ff591140d4",
-  "cases7": 74,
-  "cases": 128776,
-  "died": 4335,
+  "cases7": 75,
+  "cases": 128782,
+  "died": 4338,
   "population": 2133378
  }
 ]
