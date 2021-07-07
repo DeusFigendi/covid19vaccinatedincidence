@@ -130,6 +130,8 @@ for this_bundesland in mergeddata:
 	markdown_output += '| Inzidenz der letzten sieben Tage pro 100.000 Einwohner | '+str(round(cases7_100k,1))+' |\n'
 	markdown_output += '| Inzidenz der letzten sieben Tage pro 100.000 teilweise oder gar nicht geimpfter Einwohner | '+str(round(cases7_100k_nofullvac,1))+' |\n'
 	markdown_output += '| Inzidenz der letzten sieben Tage pro 100.000 ungeimpfte Einwohner | '+str(round(cases7_100k_novac,1))+' |\n'
+	markdown_output += '| ![](https://raw.githubusercontent.com/DeusFigendi/covid19vaccinatedincidence/master/images/'+this_bundesland['shortname']+'.svg) |   |\n'
+	markdown_output += '\n'
 	markdown_output += '\n'
 	markdown_output += '\n'
 	markdown_output += '\n'
