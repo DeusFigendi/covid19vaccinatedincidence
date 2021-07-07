@@ -120,7 +120,7 @@ markdown_output += '\n'
 for this_bundesland in mergeddata:
 	markdown_output += '### '+this_bundesland['name']+'\n'
 	markdown_output += '\n'
-	novac = this_bundesland['population'] - this_bundesland['vacchalf'] - this_bundesland['vaccfull']
+	novac = this_bundesland['population'] - this_bundesland['vacchalf']
 	nofullvac = this_bundesland['population'] - this_bundesland['vaccfull']
 	cases7_100k = 100000 * this_bundesland['cases7'] / this_bundesland['population']
 	cases7_100k_nofullvac = 100000 * this_bundesland['cases7'] / nofullvac
