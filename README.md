@@ -1,4 +1,4 @@
-# Covid19: Impung und Inzidenz
+# Covid19: Impfung und Inzidenz
 
 In diesem Dokument soll die Inzidenz der Bundesländer in Relation zu ihrer Impfrate dargestellt werden.
 Genauer gesagt, zur Nicht-Geimpft-Rate.
