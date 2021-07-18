@@ -110,7 +110,7 @@ print(incidencedata)
 mergeddata = merge_datasource(vaccinedata,incidencedata)
 
 
-markdown_output = '# Covid19: Impung und Inzidenz\n'
+markdown_output = '# Covid19: Impfung und Inzidenz\n'
 markdown_output += '\n'
 markdown_output += 'In diesem Dokument soll die Inzidenz der Bundesländer in Relation zu ihrer Impfrate dargestellt werden.\n'
 markdown_output += 'Genauer gesagt, zur Nicht-Geimpft-Rate.\n'

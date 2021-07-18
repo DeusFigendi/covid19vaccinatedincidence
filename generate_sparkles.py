@@ -72,6 +72,11 @@ while current_date < today:
 # and for drawing:
 # x_pen = x_percent*graph_width+padding
 
+
+# because min_y is usually pretty close to 0 it's set to 0 here so the
+# x-axis represents really zero incidence.
+min_y = 0
+
 print('##########################################')
 for bundesland in datapoints:
 	this_sparkle = """<?xml version="1.0" encoding="UTF-8" standalone="no"?>
@@ -99,6 +104,7 @@ for bundesland in datapoints:
 	spark1 = '<path style="fill:none;stroke:#0000ff;stroke-width:0.25px;" d="M'
 	spark2 = '<path style="fill:none;stroke:#009900;stroke-width:0.25px;" d="M'
 	spark3 = '<path style="fill:none;stroke:#ff0000;stroke-width:0.25px;" d="M'
+	me_counting = 0
 	for this_datapoint in datapoints[bundesland]:
 		x_percent = (this_datapoint['x']-min_x)/(max_x-min_x)
 		x_pen = x_percent*600 + 25
@@ -110,10 +116,37 @@ for bundesland in datapoints:
 		spark2 += ' '+str(x_pen)+','+str(y_pen)
 		y_percent = (this_datapoint['y3']-min_y)/(max_y-min_y)
 		y_pen = 300-y_percent*300 + 25
-		spark3 += ' '+str(x_pen)+','+str(y_pen)
+		spark3 += " "+str(x_pen)+','+str(y_pen)
+		if (me_counting % 10 == 0):
+			spark1 += "\n"
+			spark2 += "\n"
+			spark3 += "\n"
+		me_counting += 1
 	this_sparkle += spark1+'" id="cases7_100k" />'+"\n"
 	this_sparkle += spark2+'" id="cases7_100k_nofullvac" />'+"\n"
 	this_sparkle += spark3+'" id="cases7_100k_novac" />'+"\n"
+	for this_y in range(1,int(max_y)):
+		if ((this_y == 10) or (this_y == 35) or (this_y == 50) or (this_y == 100) or (this_y == 200)):
+			this_sparkle += '<path style="fill:none;stroke:#000000;stroke-width:0.1px;" d="M'
+			x_pen = 20
+			y_percent = (this_y-min_y)/(max_y-min_y)
+			y_pen = 300-y_percent*300 + 25
+			this_sparkle += ' '+str(x_pen)+','+str(y_pen)
+			x_pen = 625
+			this_sparkle += ' '+str(x_pen)+','+str(y_pen)
+			this_sparkle += '" id="yaxis_'+str(this_y)+'" />'
+			this_sparkle += "\n"
+			this_sparkle += '<text xml:space="preserve" style="font-size:12px" x="5" y="'+str(y_pen+5.5)+'" id="hline_caption'+str(this_y)+'"><tspan id="hline_caption_'+str(this_y)+'" x="5" y="'+str(y_pen+5.5)+'">'+str(this_y)+'</tspan></text>'
+			this_sparkle += "\n"
+		elif (this_y % 10 == 0):
+			this_sparkle += '<path style="fill:none;stroke:#000000;stroke-width:0.1px;" d="M'
+			x_pen = 20
+			y_percent = (this_y-min_y)/(max_y-min_y)
+			y_pen = 300-y_percent*300 + 25
+			this_sparkle += ' '+str(x_pen)+','+str(y_pen)
+			x_pen = 30
+			this_sparkle += ' '+str(x_pen)+','+str(y_pen)
+			this_sparkle += '" id="yaxis_'+str(this_y)+'" />'
 	this_sparkle += """
   </g>
 </svg>"""

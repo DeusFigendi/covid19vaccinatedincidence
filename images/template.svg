@@ -1,12 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-
 <svg
    width="650"
    height="350"
    version="1.1"
    id="svg37134"
+   sodipodi:docname="template.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.0476923"
+     inkscape:cx="325.73253"
+     inkscape:cy="174.83095"
+     inkscape:window-width="1920"
+     inkscape:window-height="1012"
+     inkscape:window-x="0"
+     inkscape:window-y="1080"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg37134" />
   <g
      id="layer1">
     <path
@@ -22,4 +45,5 @@
        d="M 25,300 50,200 75,250 100,100 150,180 200,50 250,200 300,100 400,250 550,200"
        id="path37232" />
   </g>
+  <text xml:space="preserve" style="font-size:15px" x="243.99649" y="240.49957" id="hline_caption10"><tspan id="hline_caption_10" x="243.99649" y="240.49957">10</tspan></text>
 </svg>
