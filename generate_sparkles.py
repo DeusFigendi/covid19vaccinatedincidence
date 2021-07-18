@@ -107,15 +107,15 @@ for bundesland in datapoints:
 	me_counting = 0
 	for this_datapoint in datapoints[bundesland]:
 		x_percent = (this_datapoint['x']-min_x)/(max_x-min_x)
-		x_pen = x_percent*600 + 25
+		x_pen = round(x_percent*600 + 25)
 		y_percent = (this_datapoint['y1']-min_y)/(max_y-min_y)
-		y_pen = 300-y_percent*300 + 25
+		y_pen = round(300-y_percent*300 + 25)
 		spark1 += ' '+str(x_pen)+','+str(y_pen)
 		y_percent = (this_datapoint['y2']-min_y)/(max_y-min_y)
-		y_pen = 300-y_percent*300 + 25
+		y_pen = round(300-y_percent*300 + 25)
 		spark2 += ' '+str(x_pen)+','+str(y_pen)
 		y_percent = (this_datapoint['y3']-min_y)/(max_y-min_y)
-		y_pen = 300-y_percent*300 + 25
+		y_pen = round(300-y_percent*300 + 25)
 		spark3 += " "+str(x_pen)+','+str(y_pen)
 		if (me_counting % 10 == 0):
 			spark1 += "\n"
@@ -147,6 +147,7 @@ for bundesland in datapoints:
 			x_pen = 30
 			this_sparkle += ' '+str(x_pen)+','+str(y_pen)
 			this_sparkle += '" id="yaxis_'+str(this_y)+'" />'
+			this_sparkle += "\n"
 	this_sparkle += """
   </g>
 </svg>"""
